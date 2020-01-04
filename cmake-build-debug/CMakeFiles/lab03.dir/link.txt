@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblab03d.a  CMakeFiles/lab03.dir/sources/source.cpp.o
+/usr/bin/ranlib liblab03d.a

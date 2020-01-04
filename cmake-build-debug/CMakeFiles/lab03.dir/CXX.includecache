@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/header.hpp
+atomic
+-
+exception
+-
+iostream
+-
+utility
+-
+
+/home/joaquin/labs_AL/lab-03-shared-ptr-X4Ker/sources/source.cpp
+header.hpp
+-
+

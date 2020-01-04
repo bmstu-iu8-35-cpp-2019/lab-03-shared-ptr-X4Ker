@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/SharedPtr.h
+iostream
+-
+atomic
+-
+
+/home/joaquin/labs_AL/lab-03-shared-ptr-X4Ker/sources/main.cpp
+iostream
+-
+SharedPtr.h
+/home/joaquin/labs_AL/lab-03-shared-ptr-X4Ker/sources/SharedPtr.h
+

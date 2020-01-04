@@ -1,0 +1,5 @@
+/home/joaquin/labs_AL/lab-03-shared-ptr-X4Ker/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/joaquin/labs_AL/lab-03-shared-ptr-X4Ker/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/joaquin/labs_AL/lab-03-shared-ptr-X4Ker/cmake-build-debug/CMakeFiles/test.dir
+/home/joaquin/labs_AL/lab-03-shared-ptr-X4Ker/cmake-build-debug/CMakeFiles/lab03.dir
+/home/joaquin/labs_AL/lab-03-shared-ptr-X4Ker/cmake-build-debug/CMakeFiles/tests.dir
