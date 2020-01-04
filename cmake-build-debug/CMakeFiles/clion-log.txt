@@ -1,9 +1,0 @@
-/home/joaquin/clion-2019.2.5/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/joaquin/labs_AL/lab-03-shared-ptr-X4Ker
--- [hunter] Calculating Toolchain-SHA1
--- [hunter] Calculating Config-SHA1
--- [hunter] HUNTER_ROOT: /home/joaquin/.hunter
--- [hunter] [ Hunter-ID: 9a3594a | Toolchain-ID: 511a137 | Config-ID: 48401e9 ]
--- [hunter] GTEST_ROOT: /home/joaquin/.hunter/_Base/9a3594a/511a137/48401e9/Install (ver.: 1.8.0-hunter-p11)
--- Configuring done
--- Generating done
--- Build files have been written to: /home/joaquin/labs_AL/lab-03-shared-ptr-X4Ker/cmake-build-debug
